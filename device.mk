@@ -111,6 +111,11 @@ PRODUCT_PACKAGES += \
     copybit.msm8960 \
     memtrack.msm8960
 
+# Glove mode
+PRODUCT_PACKAGES += \
+    DeviceSettings
+
+
 # GPS
 PRODUCT_PACKAGES += \
     gps.conf \
